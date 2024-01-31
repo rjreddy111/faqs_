@@ -1,0 +1,31 @@
+/* Write your code here. */
+.each-question-answer-container {
+  list-style-type: none;
+  border: 1px solid #d7dae6;
+  margin-top: 10px;
+  padding: 10px;
+  margin-left: 0px;
+  border-radius: 8px;
+}
+.each-question {
+  display: flex;
+  justify-content: space-between;
+}
+.button-image-style {
+  width: 20px;
+}
+.button-style {
+  background-color: transparent;
+  border-width: 0px;
+}
+.question-text {
+  color: #52606d;
+  font-size: 22px;
+}
+.answer-text {
+  color: #9aa5b1;
+  font-size: 16px;
+}
+hr {
+  border-color: #d7dae6;
+}

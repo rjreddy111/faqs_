@@ -1,0 +1,29 @@
+/* Write your code here. */
+.faqs-main-bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+.faqs-card-bg-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  color: #cb8805;
+  font-size: 28px;
+  font-weight: bold;
+}
+.question-answer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
